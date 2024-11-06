@@ -1,6 +1,6 @@
 # Hi there, I'm mbougar! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on writing clean, efficient, and scalable code. I enjoy working on a variety of technologies, from building back-end systems to creating sleek front-end user interfaces. Below is a quick overview of the languages and technologies I work with.
+Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
