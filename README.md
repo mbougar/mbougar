@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 
 - **[Chess Game](https://github.com/IES-Rafael-Alberti/prog-practica-libre-trimestre-2-mbougar)**: A simple Chess game made with Kotlin and JSwing
-- **[Godot Game]([https://github.com/IES-Rafael-Alberti/prog-practica-libre-trimestre-2-mbougar](https://github.com/mbougar/LastStandOverrun))**: A roguelike horde shooter where you try to survive against zombies I made in Godot using C#
+- **[Godot Game](https://github.com/mbougar/LastStandOverrun)**: A roguelike horde shooter where you try to survive against zombies I made in Godot using C#
 
 Check out my [repositories](https://github.com/mbougar?tab=repositories) to see all my work!
 
