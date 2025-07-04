@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 
 ### Programming Languages:
 - **Kotlin**
-- **Java**
 - **Python**
 - **C#**
 - **HTML & CSS**
@@ -17,6 +16,7 @@ Welcome to my GitHub profile!
 - **Git & GitHub**
 - **Docker**
 - **Godot**
+- **Jetpack Compose**
 
 ## 🚀 Projects
 
